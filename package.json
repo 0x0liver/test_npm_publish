@@ -1,0 +1,11 @@
+{
+  "name": "test_npm_publish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "oliverryan253 <oliverryan253@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  }
+}
